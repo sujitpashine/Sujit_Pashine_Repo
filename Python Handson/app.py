@@ -25,8 +25,8 @@ for x in nums:
     print(nums)
 print("Done")
 
-with open("sample.txt", 'r') as f:
-    for l in f.readlines(): print(l, end="\n")
+# with open("sample.txt", 'r') as f:
+#     for l in f.readlines(): print(l, end="\n")
 
 #Create a list containing squares of numbers from 1 to 10 (HINT:use List Comprehension).
 #1
