@@ -11,7 +11,7 @@ x = nums.pop()
 print(x)
 print(x)
 
-nums.append("a")
+nums.append(9)
 print(nums)
 
 x = nums.pop()
